@@ -62,3 +62,17 @@ The flag is displayed inside the image:
 ---
 
 ## Screenshots
+
+<img width="1281" height="670" alt="image" src="https://github.com/user-attachments/assets/692696bc-4cf8-4f26-bf92-f5eab3230877" />
+
+---
+
+<img width="1338" height="691" alt="image" src="https://github.com/user-attachments/assets/4e894172-d931-4784-8df8-646a9a608385" />
+
+---
+
+<img width="862" height="360" alt="image" src="https://github.com/user-attachments/assets/91561b5b-80b3-4ef1-9b97-36faaa152bba" />
+
+ 
+
+
