@@ -32,11 +32,11 @@ Look at the **Comment** field. It contains a Base64-encoded string that may hold
 
 
 
-Decode the first Base64 string using Cybershef tool
+Decode the first Base64 string using CyberChef 
 
 The decoded output contains the word `steghide` and another Base64 string. This indicates that Steghide may have been used to hide data inside the image.
 
-Decode the second Base64 string using cybershef
+Decode the second Base64 string using cyberChef
 
 The output reveals the password:
 
