@@ -46,3 +46,11 @@ YWNhZGVteXtyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==
 ```
 
 Decode the extracted string using CyberChef The decoded output reveals the flag.
+
+---
+
+## Screenshot
+
+<img width="1492" height="735" alt="image" src="https://github.com/user-attachments/assets/b5cad012-8210-4f35-aece-81d093d141c0" />
+
+
