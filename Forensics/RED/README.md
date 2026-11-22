@@ -51,6 +51,10 @@ Decode the extracted string using CyberChef The decoded output reveals the flag.
 
 ## Screenshot
 
+<img width="128" height="128" alt="red" src="https://github.com/user-attachments/assets/f77fc343-dbc2-46f8-a456-a9af13e06887" />
+
+---
+
 <img width="1492" height="735" alt="image" src="https://github.com/user-attachments/assets/b5cad012-8210-4f35-aece-81d093d141c0" />
 
 
